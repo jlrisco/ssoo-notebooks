@@ -1,0 +1,8 @@
+dependencies:
+  # Operating System
+  - gcc
+  - make
+  - pip
+  - pip:
+    - jupyter-c-kernel
+
