@@ -1,6 +1,6 @@
 dependencies:
   # Operating System
-  - gcc
+  #- gcc
   - make
   - pip
   - pip:
