@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Install the C kernel
-sudo install_c_kernel
+install_c_kernel --user
