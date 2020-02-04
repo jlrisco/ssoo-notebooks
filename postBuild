@@ -1,2 +1,2 @@
 # Install the C kernel
-install_c_kernel
+sudo install_c_kernel
