@@ -1,9 +1,3 @@
 dependencies:
-  # Operating System
-  #- gcc
-  - sudo
-  - make
-  - pip
   - pip:
     - jupyter-c-kernel
-
