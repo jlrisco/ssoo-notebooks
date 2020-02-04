@@ -1,2 +1,4 @@
+#!/bin/bash
+
 # Install the C kernel
 sudo install_c_kernel
